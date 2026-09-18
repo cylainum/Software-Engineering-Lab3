@@ -1,0 +1,39 @@
+html{
+    background-color: #d4ffb7;
+}
+body{
+    margin: 0px;
+}
+
+/*****************Pages*****************/
+.pages ul{
+    list-style-type: none;
+    background-color: #b2ff7f;
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+}
+.pages a{
+    color: #ff6769;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    text-align: center;
+}
+.pages a:hover{
+    background-color: #dcc1fc;
+}
+.pages li{
+    float: left;
+}
+/*****************Pages*****************/
+
+.linked{
+    color: white;
+}
+
+#about {
+    margin-top: .5%;
+    margin-left: 1%;
+    margin-right: 75%;
+}
