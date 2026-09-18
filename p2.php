@@ -24,13 +24,13 @@
     <div id="paragraph">Paragraph to be changed.</div>
 </body>
     <script type="text/javascript" src="functions.js"></script>
-    Border R(0-255): <input type="text" id="border_R" value=""> <br>
-    Border G(0-255): <input type="text" id="border_G" value=""> <br>
-    Border B(0-255): <input type="text" id="border_B" value=""> <br>
-    Border Width: <input type="text" id="border_width" value=""> <br>
-    Background R(0-255): <input type="text" id="bg_R" value=""> <br>
-    Background G(0-255): <input type="text" id="bg_G" value=""> <br>
-    Background B(0-255): <input type="text" id="bg_B" value=""> <br>
+      Border R(0-255): <input type="text" id="border_R" value=""> <br>
+      Border G(0-255): <input type="text" id="border_G" value=""> <br>
+      Border B(0-255): <input type="text" id="border_B" value=""> <br>
+      Border Width: <input type="text" id="border_width" value=""> <br>
+      Background R(0-255): <input type="text" id="bg_R" value=""> <br>
+      Background G(0-255): <input type="text" id="bg_G" value=""> <br>
+      Background B(0-255): <input type="text" id="bg_B" value=""> <br>
     <button onclick="alert_paragraph_color()">Make it so!</button> <br>
 
 </main>

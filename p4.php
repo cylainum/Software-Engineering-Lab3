@@ -12,4 +12,11 @@
       <li><a href="p3.php">Practice3</a></li>
       <li><a href="p4.php">Practice4</a></li>
     </ul>
+
+    <h2>Enter the size of the table:</h2>
+
+    <form action="p4-result.php" method="GET" target="_blank">
+      <label for="n">Size (n):</label>
+      <input type="number" name="n" id="n" min="1" max="100" required>
+      <button type="submit">Make it so!</button>
   </nav>
