@@ -12,4 +12,12 @@
       <li><a href="p3.php">Practice3</a></li>
       <li><a href="p4.php">Practice4</a></li>
     </ul>
+
+    <body>
+      First Password: <input type="text" id="pass1" value=""> <br>
+      Second Password: <input type="text" id="pass2" value=""> <br>
+
+      <script type="text/javascript" src="functions.js"></script>
+      <button onclick="validate()">Validate Your Passwords</button> <br>
+    </body>
   </nav>
